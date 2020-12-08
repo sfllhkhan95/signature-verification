@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/datatables/datatables" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/composer" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/twbs/bootstrap" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/fortawesome/font-awesome" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/clients/web/vendor/components/jquery" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/versign-web/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
